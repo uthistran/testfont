@@ -1,0 +1,18 @@
+/* Thanthi OLM */
+@font-face  
+{
+        font-family : "taun_elango_abirami";
+        src: url('taun_elango_abirami.woff')format('woff');
+}
+
+@font-face  
+{
+        font-family : "taun_elango_kamban";
+        src: url('taun_elango_kamban.woff')format('woff');
+}
+
+@font-face  
+{
+        font-family : "taun_elango_panchali";
+        src: url('taun_elango_panchali.woff')format('woff');
+}
